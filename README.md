@@ -1,7 +1,4 @@
 The code is avalaible in master Branch
-Here's a short README template for your GitHub repository:
-
----
 
 # Numerical Approximation of Maxwell's Equations using IsoGeometric Analysis (IGA)
 
@@ -10,16 +7,15 @@ This repository contains the code implementations for my Master's thesis on the 
 ## Key Features
 
 - **Isogeometric Analysis (IGA)**: Implementation of IGA for the discretization and solution of Maxwell's equations.
-- **Preconditioning**: Application of advanced preconditioning techniques for large linear systems.
-- **Solver Development**: Development of both GPU and CPU solvers for efficient computation.
+
 - **Finite Element Methods**: Integration of IGA with traditional finite element methods for improved results in electromagnetics simulations.
 
 ## Requirements
-
+- CAD 
 - Python 3.x
 - NumPy
 - SciPy
 - Matplotlib (for visualization)
-- CUDA (for GPU acceleration, In the next chapter)
+  
 
 
